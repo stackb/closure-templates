@@ -8,4 +8,5 @@ filegroup(
         "soyutils_templates.js",
         "soyutils_usegoog.js",
     ],
+    visibility = ["//visibility:public"],
 )
